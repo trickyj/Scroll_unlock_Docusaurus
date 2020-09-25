@@ -8,19 +8,20 @@
  */
 
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Scroll Unlock',
+  tagline:
+    'Continuous effort, not strength or intelligence is the key to unlocking our potential.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'trickyj', // Usually your GitHub org/user name.
+  projectName: 'Scroll_unlock_Docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Facebook Project',
+      title: 'UnlockMe',
       logo: {
-        alt: 'My Facebook Project Logo',
+        alt: 'UnlockMe',
         src: 'img/logo.svg',
       },
       items: [
@@ -33,7 +34,7 @@ module.exports = {
         {to: 'blog', label: 'Blog', position: 'left'},
         // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/trickyj/Scroll_unlock_Docusaurus',
           label: 'GitHub',
           position: 'right',
         },
