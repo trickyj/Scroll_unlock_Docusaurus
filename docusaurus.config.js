@@ -12,7 +12,7 @@ module.exports = {
   tagline:
     'Continuous effort, not strength or intelligence is the key to unlocking our potential.',
   url: 'https://trickyj.github.io',
-  baseUrl: '/scroll-unlock-docusaurus/',
+  baseUrl: '/Scroll_unlock_Docusaurus/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'trickyj', // Usually your GitHub org/user name.
