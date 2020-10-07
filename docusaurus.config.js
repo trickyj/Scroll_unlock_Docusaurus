@@ -11,8 +11,8 @@ module.exports = {
   title: 'Scroll Unlock',
   tagline:
     'Continuous effort, not strength or intelligence is the key to unlocking our potential.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://trickyj.github.io',
+  baseUrl: '/scroll-unlock-docusaurus/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'trickyj', // Usually your GitHub org/user name.
